@@ -1,4 +1,4 @@
-baseurl = "http://the-cathect-effect.com"
+baseurl = ""
 canonifyurls = true
 defaultcontentlanguage = "en"
 disqusShortname = "yourdiscussshortname"
