@@ -49,6 +49,11 @@ since = 2019
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
 [[params.social]]
+icon = ""
+name = "Twitch"
+url = "www.Twitch.tv/thecathecteffect"
+weight = 64
+[[params.social]]
 icon = "fab fa-twitter"
 name = "Twitter"
 url = "https://twitter.com/johndoe/"
