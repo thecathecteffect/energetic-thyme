@@ -74,7 +74,7 @@ since = 2019
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
 [[params.social]]
-icon = "fab fa-github"
+icon = "la-twitch"
 name = "Github"
 url = "https://github.com/johndoe/"
 weight = 1
