@@ -10,6 +10,5 @@ fields:
   label: Slug
 pages:
 - exampleSite/content/about.md
-- exampleSite/content/about.pt-br.md
 - exampleSite/content/contact.md
 - exampleSite/content/contact.pt-br.md
