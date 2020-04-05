@@ -56,7 +56,7 @@ weight = 3
 [[params.social]]
 icon = "fab fa-linkedin"
 name = "LinkedIn"
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/thecathecteffect"
 weight = 4
 [[params.social]]
 icon = "fab fa-medium"
