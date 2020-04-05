@@ -37,9 +37,9 @@ custom_js = []
 dateformat = "January 2, 2006"
 description = "The Cathect Effect"
 footercontent = "Enter a text here."
-hideCopyright = false
-hideCredits = false
-hideFooter = false
+hideCopyright = true
+hideCredits = true
+hideFooter = true
 info = "Personal Trainer, Coach, Streamer"
 keywords = "Personal Trainer, Coach, Streamer"
 maxSeeAlsoItems = 5
@@ -48,16 +48,6 @@ since = 2019
 [params.fathomAnalytics]
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
-[[params.social]]
-icon = "la-twitch"
-name = "Github"
-url = "https://github.com/johndoe/"
-weight = 1
-[[params.social]]
-icon = "fab fa-gitlab"
-name = "Gitlab"
-url = "https://gitlab.com/johndoe/"
-weight = 2
 [[params.social]]
 icon = "fab fa-twitter"
 name = "Twitter"
