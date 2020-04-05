@@ -27,31 +27,6 @@ weight = 3
 name = "Contact me"
 url = "contact/"
 weight = 5
-[languages.pt-br]
-languagename = "Português"
-title = "João Ninguém"
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-url = "about/"
-weight = 1
-[[languages.pt-br.menu.main]]
-name = "Blog"
-url = "posts/"
-weight = 2
-[[languages.pt-br.menu.main]]
-name = "Projetos"
-url = "projects/"
-weight = 3
-[[languages.pt-br.menu.main]]
-name = "Contato"
-url = "contact/"
-weight = 5
-[languages.pt-br.params]
-author = "João Ninguém"
-description = "Sítio pessoal de João Ninguém"
-footercontent = "Coloque algum texto aqui."
-info = "Full Stack DevOps e Mágico"
-keywords = "blog,desenvolvedor,pessoal"
 [params]
 author = "Robert Cruz"
 avatarurl = "images/12604906_1710905619141883_6378664010068958115_o.jpg"
