@@ -56,25 +56,13 @@ weight = 3
 [[params.social]]
 icon = "fab fa-twitter"
 name = "Twitter"
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/thecathect/"
 weight = 3
 [[params.social]]
 icon = "fab fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/thecathecteffect"
 weight = 4
-[[params.social]]
-icon = "fab fa-medium"
-name = "Medium"
-url = "https://medium.com/@johndoe"
-weight = 5
-[[params.social]]
-icon = "fas fa-rss"
-name = "RSS"
-rel = "alternate"
-type = "application/rss+xml"
-url = "https://myhugosite.com/index.xml"
-weight = 6
 [taxonomies]
 category = "categories"
 series = "series"
