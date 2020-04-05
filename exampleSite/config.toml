@@ -54,7 +54,7 @@ info = "Full Stack DevOps e Mágico"
 keywords = "blog,desenvolvedor,pessoal"
 [params]
 author = "Robert Cruz"
-avatarurl = "images/avatar.jpg"
+avatarurl = "images/12604906_1710905619141883_6378664010068958115_o.jpg"
 colorscheme = "auto"
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 custom_css = []
