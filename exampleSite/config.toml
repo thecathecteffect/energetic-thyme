@@ -51,7 +51,7 @@ siteID = "ABCDE"
 [[params.social]]
 icon = "fab fa-twitch"
 name = "Twitch"
-url = "https:\\\\www.twitch.tv/thecathecteffect"
+url = "https://www.twitch.tv/thecathecteffect"
 weight = 3
 [[params.social]]
 icon = "fab fa-twitter"
