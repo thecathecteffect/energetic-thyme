@@ -49,11 +49,6 @@ since = 2019
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
 [[params.social]]
-icon = "fab fa-twitch"
-name = "Twitch"
-url = "www.twitch.tv/thecathecteffect"
-weight = 3
-[[params.social]]
 icon = "fab fa-twitter"
 name = "Twitter"
 url = "https://twitter.com/johndoe/"
@@ -75,6 +70,11 @@ rel = "alternate"
 type = "application/rss+xml"
 url = "https://myhugosite.com/index.xml"
 weight = 6
+[[params.social]]
+icon = "fab fa-twitch"
+name = "Twitch"
+url = "www.twitch.tv/thecathecteffect"
+weight = 3
 [taxonomies]
 category = "categories"
 series = "series"
