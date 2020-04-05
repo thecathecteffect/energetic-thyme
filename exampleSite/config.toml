@@ -70,11 +70,6 @@ rel = "alternate"
 type = "application/rss+xml"
 url = "https://myhugosite.com/index.xml"
 weight = 6
-[[params.social]]
-icon = "fab fa-twitch"
-name = "Twitch"
-url = "www.twitch.tv/thecathecteffect"
-weight = 3
 [taxonomies]
 category = "categories"
 series = "series"
