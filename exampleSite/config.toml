@@ -49,7 +49,7 @@ since = 2019
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
 [[params.social]]
-icon = <i class="lab la-twitch"></i>
+icon = "<i class="lab la-twitch"></i>"
 name = "Twitch"
 url = "www.Twitch.tv/thecathecteffect"
 weight = 64
