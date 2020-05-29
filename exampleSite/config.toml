@@ -60,7 +60,7 @@ name = "LinkedIn"
 url = "https://www.linkedin.com/in/thecathecteffect"
 weight = 4
 [[params.social]]
-icon = "fab fa-Instagram"
+icon = "fab fa-instagram"
 name = "Instagram"
 url = "https://www.instagram.com/thecathecteffect"
 weight = 3
