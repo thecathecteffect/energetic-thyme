@@ -12,16 +12,16 @@ title = "The Cathect Effect"
 [languages.en]
 languagename = "English"
 [[languages.en.menu.main]]
-name = "About"
-url = "about/"
+name = ""
+url = ""
 weight = 1
 [[languages.en.menu.main]]
-name = "Blog"
-url = "posts/"
+name = ""
+url = ""
 weight = 2
 [[languages.en.menu.main]]
-name = "Contact me"
-url = "contact/"
+name = ""
+url = ""
 weight = 5
 [params]
 author = "Robert Cruz"
