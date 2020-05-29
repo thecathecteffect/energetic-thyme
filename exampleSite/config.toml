@@ -8,7 +8,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "b2"
 theme = "hugo-coder"
-title = "The Cathect Effect"
+title = ""
 [languages.en]
 languagename = "English"
 [[languages.en.menu.main]]
