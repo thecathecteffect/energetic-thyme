@@ -40,6 +40,4 @@ fields:
   label: Featured Image
   description: Image featured in post display
 pages:
-- exampleSite/content/posts/external-post.md
-- exampleSite/content/posts/goisforlovers.md
 - exampleSite/content/posts/hugoisforlovers.md
