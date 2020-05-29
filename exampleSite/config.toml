@@ -45,6 +45,16 @@ since = 2019
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
 [[params.social]]
+icon = "fab fa-instagram"
+name = "Instagram"
+url = "https://www.instagram.com/thecathecteffect"
+weight = 3
+[[params.social]]
+icon = "fab fa-linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/thecathecteffect"
+weight = 4
+[[params.social]]
 icon = "fab fa-twitch"
 name = "Twitch"
 url = "https://www.twitch.tv/thecathecteffect"
@@ -54,16 +64,8 @@ icon = "fab fa-twitter"
 name = "Twitter"
 url = "https://twitter.com/cathecteffect"
 weight = 3
-[[params.social]]
-icon = "fab fa-linkedin"
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/thecathecteffect"
-weight = 4
-[[params.social]]
-icon = "fab fa-instagram"
-name = "Instagram"
-url = "https://www.instagram.com/thecathecteffect"
-weight = 3
+
+
 [taxonomies]
 category = "categories"
 series = "series"
