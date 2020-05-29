@@ -10,4 +10,3 @@ fields:
   label: Slug
 pages:
 - exampleSite/content/about.md
-- exampleSite/content/contact.md
