@@ -8,5 +8,3 @@ fields:
 - type: text
   name: slug
   label: Slug
-pages:
-- exampleSite/content/about.md
