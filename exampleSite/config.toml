@@ -59,6 +59,11 @@ icon = "fab fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/thecathecteffect"
 weight = 4
+[[params.social]]
+icon = "fab fa-Instagram"
+name = "Instagram"
+url = "https://www.instagram.com/thecathecteffect"
+weight = 3
 [taxonomies]
 category = "categories"
 series = "series"
