@@ -8,21 +8,11 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "b2"
 theme = "hugo-coder"
-title = ""
+title = "The Cathect Effect"
 [languages.en]
 languagename = "English"
-[[languages.en.menu.main]]
-name = ""
-url = ""
-weight = 1
-[[languages.en.menu.main]]
-name = ""
-url = ""
-weight = 2
-[[languages.en.menu.main]]
-name = ""
-url = ""
-weight = 5
+[languages.en.menu]
+main = []
 [params]
 author = "Robert Cruz"
 avatarurl = "images/me.png"
@@ -52,7 +42,7 @@ weight = 3
 [[params.social]]
 icon = "fab fa-linkedin"
 name = "LinkedIn"
-url = "https://www.linkedin.com/in/thecathecteffect"
+url = "https://www.linkedin.com/in/RobertCruzCPT"
 weight = 4
 [[params.social]]
 icon = "fab fa-twitch"
@@ -64,8 +54,6 @@ icon = "fab fa-twitter"
 name = "Twitter"
 url = "https://twitter.com/cathecteffect"
 weight = 3
-
-
 [taxonomies]
 category = "categories"
 series = "series"
